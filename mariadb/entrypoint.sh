@@ -1,6 +1,6 @@
 #!/bin/bash
 
- ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
+ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
  
 set -eo pipefail
 shopt -s nullglob
